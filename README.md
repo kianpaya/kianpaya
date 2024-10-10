@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Kian Paya
+### Hi there 👋, I'm Kian
 
 I’m a Full-Stack Data Scientist with a passion for using data to solve real-world problems. Leveraging my background in Aerospace Engineering and over six years of experience in data science, machine learning, and web development, I founded Data Vision to deliver innovative, data-driven solutions.
 
